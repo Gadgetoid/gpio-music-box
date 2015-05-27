@@ -30,6 +30,4 @@ for pin in sound_pins:
 
 print("ready")
 
-while True:
-    signal.pause()
-    pass
+signal.pause()
